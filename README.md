@@ -10,8 +10,6 @@ I want to support people who live with passion for God by building tools that he
 ### Tech I use
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Pest](https://img.shields.io/badge/Pest-F472B6?style=flat&logo=pestphp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ...
 
 ### Ask me about
@@ -22,7 +20,6 @@ I want to support people who live with passion for God by building tools that he
 
 ### Reach me
 - [/dev/null](https://dev-null.sh/@dominicjaeggi): @dominicjaeggi
-- [Pinkary](https://pinkary.com/@dominicjaeggi): @dominicjaeggi
 - [dominic@doti.dev](mailto:dominic@doti.dev)
 
 ### Activity on `/dev/null`
